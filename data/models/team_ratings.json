@@ -1134,13 +1134,13 @@
     "last_match_date": null
   },
   "切尔西": {
-    "elo": 1821.2,
-    "attack": 0.9921,
-    "defense": 0.8855,
-    "form": 0.39,
+    "elo": 1781.4,
+    "attack": 0.8954,
+    "defense": 0.8695,
+    "form": -0.027,
     "injury": 0.0,
     "rest_days": 7,
-    "last_match_date": "2026-10-17"
+    "last_match_date": "2026-10-24"
   },
   "布拉干RB": {
     "elo": 1660.0,
@@ -1215,13 +1215,13 @@
     "last_match_date": null
   },
   "巴伦西亚": {
-    "elo": 1545.6,
-    "attack": 0.5641,
-    "defense": 0.7557,
-    "form": -0.204,
+    "elo": 1536.8,
+    "attack": 0.5443,
+    "defense": 0.7524,
+    "form": -0.4428,
     "injury": 0.0,
-    "rest_days": 6,
-    "last_match_date": "2026-10-17"
+    "rest_days": 7,
+    "last_match_date": "2026-10-24"
   },
   "摩纳哥": {
     "elo": 1749.9,
@@ -1521,13 +1521,13 @@
     "last_match_date": "2026-08-08"
   },
   "朗斯": {
-    "elo": 1706.7,
-    "attack": 0.8981,
-    "defense": 0.7721,
-    "form": -0.4372,
+    "elo": 1719.3,
+    "attack": 0.8809,
+    "defense": 0.732,
+    "form": -0.006,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-10-21"
+    "rest_days": 3,
+    "last_match_date": "2026-10-24"
   },
   "巴斯蒂亚": {
     "elo": 1353.5,
@@ -1692,13 +1692,13 @@
     "last_match_date": null
   },
   "多特蒙德": {
-    "elo": 1754.6,
-    "attack": 0.4973,
-    "defense": 0.4756,
-    "form": 0.3124,
+    "elo": 1759.5,
+    "attack": 0.484,
+    "defense": 0.4292,
+    "form": 0.5187,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-10-20"
+    "rest_days": 4,
+    "last_match_date": "2026-10-24"
   },
   "拜仁慕尼黑": {
     "elo": 2170.1,
@@ -1782,13 +1782,13 @@
     "last_match_date": "2026-10-15"
   },
   "托特纳姆热刺": {
-    "elo": 1746.8,
-    "attack": 0.8564,
-    "defense": 0.6054,
-    "form": 0.0554,
+    "elo": 1786.6,
+    "attack": 0.8433,
+    "defense": 0.5464,
+    "form": 0.3388,
     "injury": 0.0,
-    "rest_days": 9,
-    "last_match_date": "2026-10-19"
+    "rest_days": 5,
+    "last_match_date": "2026-10-24"
   },
   "波尔图": {
     "elo": 1829.5,
@@ -2178,13 +2178,13 @@
     "last_match_date": null
   },
   "比利亚雷亚尔": {
-    "elo": 1777.8,
-    "attack": 1.0905,
-    "defense": 0.7657,
-    "form": -0.0166,
+    "elo": 1786.6,
+    "attack": 1.0545,
+    "defense": 0.7262,
+    "form": 0.2884,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-10-20"
+    "rest_days": 4,
+    "last_match_date": "2026-10-24"
   },
   "明迪纳摩": {
     "elo": 1354.4,
@@ -2331,13 +2331,13 @@
     "last_match_date": "2026-10-24"
   },
   "法兰克福": {
-    "elo": 1522.7,
-    "attack": 0.871,
-    "defense": 1.1566,
-    "form": 0.0756,
+    "elo": 1517.8,
+    "attack": 0.7861,
+    "defense": 1.079,
+    "form": -0.2471,
     "injury": 0.0,
-    "rest_days": 6,
-    "last_match_date": "2026-10-16"
+    "rest_days": 8,
+    "last_match_date": "2026-10-24"
   },
   "弗赖堡": {
     "elo": 1715.4,
@@ -2682,13 +2682,13 @@
     "last_match_date": "2026-10-23"
   },
   "拉齐奥": {
-    "elo": 1776.3,
-    "attack": 0.7965,
-    "defense": 0.5442,
-    "form": 0.8097,
+    "elo": 1779.1,
+    "attack": 0.7892,
+    "defense": 0.5263,
+    "form": 0.8668,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-18"
+    "rest_days": 6,
+    "last_match_date": "2026-10-24"
   },
   "热那亚": {
     "elo": 1518.7,
@@ -2709,13 +2709,13 @@
     "last_match_date": null
   },
   "帕尔马": {
-    "elo": 1433.1,
-    "attack": 0.41,
-    "defense": 0.8152,
-    "form": -0.5565,
+    "elo": 1430.3,
+    "attack": 0.4052,
+    "defense": 0.8061,
+    "form": -0.6895,
     "injury": 0.0,
-    "rest_days": 9,
-    "last_match_date": "2026-10-19"
+    "rest_days": 5,
+    "last_match_date": "2026-10-24"
   },
   "巴勒莫": {
     "elo": 1350.5,
@@ -3861,13 +3861,13 @@
     "last_match_date": "2026-10-23"
   },
   "巴黎FC": {
-    "elo": 1697.8,
-    "attack": 0.9239,
-    "defense": 0.7368,
-    "form": 0.6181,
+    "elo": 1685.2,
+    "attack": 0.869,
+    "defense": 0.7353,
+    "form": 0.1327,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-09-19"
+    "rest_days": 14,
+    "last_match_date": "2026-10-24"
   },
   "得土安": {
     "elo": 1500.0,
