@@ -1791,13 +1791,13 @@
     "last_match_date": "2026-10-24"
   },
   "波尔图": {
-    "elo": 1829.5,
-    "attack": 0.8389,
-    "defense": 0.4295,
-    "form": -0.1291,
+    "elo": 1837.0,
+    "attack": 0.7923,
+    "defense": 0.3876,
+    "form": 0.2096,
     "injury": 0.0,
-    "rest_days": 6,
-    "last_match_date": "2026-10-20"
+    "rest_days": 4,
+    "last_match_date": "2026-10-24"
   },
   "马里迪莫": {
     "elo": 1361.6,
@@ -2115,13 +2115,13 @@
     "last_match_date": null
   },
   "马德里竞技": {
-    "elo": 1807.7,
-    "attack": 1.0317,
-    "defense": 0.8399,
-    "form": 0.3314,
+    "elo": 1811.5,
+    "attack": 0.9663,
+    "defense": 0.758,
+    "form": 0.532,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-10-20"
+    "rest_days": 4,
+    "last_match_date": "2026-10-24"
   },
   "古巴": {
     "elo": 1231.9,
@@ -2439,13 +2439,13 @@
     "last_match_date": null
   },
   "拉科鲁尼亚": {
-    "elo": 1524.8,
-    "attack": 0.7008,
-    "defense": 0.6993,
-    "form": -0.2272,
+    "elo": 1521.0,
+    "attack": 0.6325,
+    "defense": 0.6663,
+    "form": -0.459,
     "injury": 0.0,
-    "rest_days": 5,
-    "last_match_date": "2026-10-16"
+    "rest_days": 8,
+    "last_match_date": "2026-10-24"
   },
   "阿梅里亚": {
     "elo": 1486.8,
@@ -10692,13 +10692,13 @@
     "last_match_date": "2026-08-29"
   },
   "吉尔维森特": {
-    "elo": 1558.1,
-    "attack": 0.7387,
-    "defense": 0.6708,
-    "form": 0.3153,
+    "elo": 1550.6,
+    "attack": 0.6667,
+    "defense": 0.6406,
+    "form": -0.0793,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-19"
+    "rest_days": 5,
+    "last_match_date": "2026-10-24"
   },
   "莫雷拉人": {
     "elo": 1456.2,
