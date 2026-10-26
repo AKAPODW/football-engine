@@ -1935,13 +1935,13 @@
     "last_match_date": "2026-10-24"
   },
   "弗洛西诺尼": {
-    "elo": 1418.9,
-    "attack": 0.7221,
-    "defense": 1.3417,
-    "form": -0.3045,
+    "elo": 1430.2,
+    "attack": 0.7924,
+    "defense": 1.3516,
+    "form": -0.2131,
     "injury": 0.0,
     "rest_days": 3,
-    "last_match_date": null
+    "last_match_date": "2026-10-25"
   },
   "科莫": {
     "elo": 1871.9,
@@ -2025,12 +2025,12 @@
     "last_match_date": "2026-10-24"
   },
   "毕尔巴鄂竞技": {
-    "elo": 1651.4,
-    "attack": 0.7676,
-    "defense": 0.5975,
-    "form": 0.1222,
+    "elo": 1689.9,
+    "attack": 0.8335,
+    "defense": 0.5392,
+    "form": 0.3855,
     "injury": 0.0,
-    "rest_days": 4,
+    "rest_days": 0,
     "last_match_date": "2026-10-25"
   },
   "布星": {
@@ -2412,12 +2412,12 @@
     "last_match_date": "2026-10-23"
   },
   "亚特兰大": {
-    "elo": 1659.6,
-    "attack": 0.7818,
-    "defense": 0.8321,
-    "form": -0.3755,
+    "elo": 1648.3,
+    "attack": 0.8463,
+    "defense": 0.8917,
+    "form": -0.2628,
     "injury": 0.0,
-    "rest_days": 3,
+    "rest_days": 0,
     "last_match_date": "2026-10-25"
   },
   "马拉加": {
@@ -2511,13 +2511,13 @@
     "last_match_date": null
   },
   "赫塔费": {
-    "elo": 1612.0,
-    "attack": 0.6284,
-    "defense": 0.703,
-    "form": 0.1555,
+    "elo": 1573.5,
+    "attack": 0.5671,
+    "defense": 0.7752,
+    "form": -0.1911,
     "injury": 0.0,
     "rest_days": 3,
-    "last_match_date": null
+    "last_match_date": "2026-10-25"
   },
   "埃瓦尔": {
     "elo": 1420.3,
@@ -4779,12 +4779,12 @@
     "last_match_date": null
   },
   "哥德堡": {
-    "elo": 1385.8,
-    "attack": 0.4315,
-    "defense": 0.7096,
-    "form": 0.1481,
+    "elo": 1392.8,
+    "attack": 0.4246,
+    "defense": 0.6756,
+    "form": 0.1037,
     "injury": 0.0,
-    "rest_days": 14,
+    "rest_days": 0,
     "last_match_date": "2026-10-25"
   },
   "比基卡拉": {
@@ -7182,13 +7182,13 @@
     "last_match_date": null
   },
   "洛杉矶FC": {
-    "elo": 1674.2,
-    "attack": 0.6958,
-    "defense": 0.3055,
-    "form": 0.0442,
+    "elo": 1653.4,
+    "attack": 0.7006,
+    "defense": 0.3827,
+    "form": 0.0217,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-15"
+    "rest_days": 0,
+    "last_match_date": "2026-10-25"
   },
   "巴黎圣日耳曼": {
     "elo": 1834.6,
@@ -7992,13 +7992,13 @@
     "last_match_date": "2026-10-15"
   },
   "洛杉矶银河": {
-    "elo": 1418.5,
-    "attack": 0.5598,
-    "defense": 0.6814,
-    "form": 0.2206,
+    "elo": 1429.9,
+    "attack": 0.5756,
+    "defense": 0.6853,
+    "form": 0.1544,
     "injury": 0.0,
-    "rest_days": 4,
-    "last_match_date": "2026-10-15"
+    "rest_days": 10,
+    "last_match_date": "2026-10-25"
   },
   "圣路易斯城": {
     "elo": 1657.7,
@@ -8829,13 +8829,13 @@
     "last_match_date": "2026-10-10"
   },
   "洛城银河": {
-    "elo": 1506.0,
-    "attack": 0.6374,
-    "defense": 0.6374,
+    "elo": 1515.4,
+    "attack": 0.6456,
+    "defense": 0.6456,
     "form": 0.0,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-08-01"
+    "rest_days": 14,
+    "last_match_date": "2026-10-25"
   },
   "布鲁马波": {
     "elo": 1509.8,
@@ -8865,13 +8865,13 @@
     "last_match_date": "2026-10-24"
   },
   "盖斯": {
-    "elo": 1483.3,
-    "attack": 0.7849,
-    "defense": 0.7849,
+    "elo": 1476.3,
+    "attack": 0.7436,
+    "defense": 0.7436,
     "form": 0.0,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-07-26"
+    "rest_days": 14,
+    "last_match_date": "2026-10-25"
   },
   "奥斯KFUM": {
     "elo": 1419.8,

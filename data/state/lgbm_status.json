@@ -13,6 +13,6 @@
   "delta_vs_market": -0.03189,
   "t_vs_market": -2.68,
   "reason": "影子验证未双基线显著 → 保持关闭: vs融合v2 Δ=-0.0270(n=346) | vs市场 Δ=-0.0319(n=324)",
-  "trained_at": "2026-10-25T23:19:58",
+  "trained_at": "2026-10-26T07:02:53",
   "quarantined_rows": 20
 }
