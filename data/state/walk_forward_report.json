@@ -1,25 +1,25 @@
 {
-  "total_matches": 1183,
+  "total_matches": 1186,
   "date_range": [
     "2026-07-19",
-    "2026-10-23"
+    "2026-10-26"
   ],
   "metrics": {
-    "brier": 0.5788,
-    "weighted_brier": 0.5757,
-    "rps": 0.1984,
-    "weighted_rps": 0.1974,
-    "log_loss": 0.9735,
-    "hit_rate": 0.5478,
-    "ece": 0.0826
+    "brier": 0.5786,
+    "weighted_brier": 0.5755,
+    "rps": 0.1983,
+    "weighted_rps": 0.1972,
+    "log_loss": 0.9732,
+    "hit_rate": 0.5481,
+    "ece": 0.0827
   },
   "draw_analysis": {
-    "actual_draws": 287,
-    "actual_draw_rate": 0.2426,
+    "actual_draws": 288,
+    "actual_draw_rate": 0.2428,
     "predicted_draws": 39,
-    "predicted_draw_rate": 0.033,
+    "predicted_draw_rate": 0.0329,
     "max_draw_prob": 0.5025,
-    "avg_draw_prob": 0.2536,
+    "avg_draw_prob": 0.2538,
     "avg_market_draw": 0.2393,
     "market_high_draw_n": 217,
     "market_high_draw_actual": 75,
@@ -27,8 +27,8 @@
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5452,
-      "n": 1183
+      "hit_rate": 0.5455,
+      "n": 1186
     },
     "market": {
       "hit_rate": 0.5565,
@@ -45,10 +45,10 @@
   },
   "by_league": {
     "西甲": {
-      "n": 90,
-      "hit_rate": 0.5556,
-      "brier": 0.5612,
-      "rps": 0.1837
+      "n": 91,
+      "hit_rate": 0.5604,
+      "brier": 0.5616,
+      "rps": 0.1844
     },
     "欧冠": {
       "n": 83,
@@ -111,10 +111,10 @@
       "rps": 0.2295
     },
     "葡超": {
-      "n": 45,
-      "hit_rate": 0.5778,
-      "brier": 0.5354,
-      "rps": 0.175
+      "n": 46,
+      "hit_rate": 0.587,
+      "brier": 0.5297,
+      "rps": 0.1732
     },
     "巴甲": {
       "n": 44,
@@ -182,17 +182,17 @@
       "brier": 0.7212,
       "rps": 0.229
     },
+    "法乙": {
+      "n": 16,
+      "hit_rate": 0.5,
+      "brier": 0.6137,
+      "rps": 0.2013
+    },
     "英联赛杯": {
       "n": 15,
       "hit_rate": 0.8,
       "brier": 0.4276,
       "rps": 0.1527
-    },
-    "法乙": {
-      "n": 15,
-      "hit_rate": 0.5333,
-      "brier": 0.6101,
-      "rps": 0.2073
     },
     "亚运男足": {
       "n": 15,

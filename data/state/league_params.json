@@ -202,10 +202,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 4,
     "draw_hits": 0,
-    "total_predictions": 46,
-    "total_hits": 26,
+    "total_predictions": 47,
+    "total_hits": 27,
     "avg_overround": 0.0,
-    "last_updated": "2026-10-23"
+    "last_updated": "2026-10-26"
   },
   "日乙": {
     "base_goals": 1.35,
@@ -241,10 +241,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 25,
+    "total_predictions": 26,
     "total_hits": 18,
     "avg_overround": 0.0,
-    "last_updated": "2026-10-19"
+    "last_updated": "2026-10-26"
   },
   "亚冠精英": {
     "base_goals": 1.35,
@@ -262,7 +262,7 @@
   "解放者杯": {
     "base_goals": 1.35,
     "home_adv_weight": 1.0,
-    "market_blend_weight": 0.43,
+    "market_blend_weight": 0.48,
     "xg_calibration": 1.0,
     "draw_baseline": 0.25,
     "draw_predictions": 2,
@@ -319,10 +319,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 1,
     "draw_hits": 1,
-    "total_predictions": 90,
-    "total_hits": 50,
+    "total_predictions": 91,
+    "total_hits": 51,
     "avg_overround": 0.0,
-    "last_updated": "2026-10-23"
+    "last_updated": "2026-10-26"
   },
   "美职": {
     "base_goals": 1.35,

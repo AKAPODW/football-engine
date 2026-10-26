@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T20:00:35",
-  "n_settled": 1078,
+  "generated_at": "2026-10-26T23:54:01",
+  "n_settled": 1081,
   "n_positive_edge": 116,
   "edge_buckets": [
     {
@@ -39,11 +39,11 @@
   "prob_buckets": [
     {
       "bucket": "[0.30,0.40)",
-      "n": 155,
-      "actual_hit_rate": 0.4065,
-      "required_hit_rate": 0.4431,
-      "ev_gap": -0.0366,
-      "roi_proxy": -0.0827
+      "n": 157,
+      "actual_hit_rate": 0.4076,
+      "required_hit_rate": 0.4435,
+      "ev_gap": -0.0359,
+      "roi_proxy": -0.0808
     },
     {
       "bucket": "[0.40,0.50)",
@@ -55,11 +55,11 @@
     },
     {
       "bucket": "[0.50,0.60)",
-      "n": 264,
-      "actual_hit_rate": 0.5,
-      "required_hit_rate": 0.5932,
-      "ev_gap": -0.0932,
-      "roi_proxy": -0.1571
+      "n": 265,
+      "actual_hit_rate": 0.5019,
+      "required_hit_rate": 0.5937,
+      "ev_gap": -0.0919,
+      "roi_proxy": -0.1547
     },
     {
       "bucket": "[0.60,0.70)",
