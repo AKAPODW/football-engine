@@ -2322,22 +2322,22 @@
     "last_match_date": "2026-10-24"
   },
   "汉堡": {
-    "elo": 1479.7,
-    "attack": 0.6086,
-    "defense": 0.9696,
-    "form": 0.0111,
+    "elo": 1448.7,
+    "attack": 0.5844,
+    "defense": 0.9806,
+    "form": -0.2922,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-24"
+    "rest_days": 3,
+    "last_match_date": "2026-10-27"
   },
   "法兰克福": {
-    "elo": 1517.8,
-    "attack": 0.7861,
-    "defense": 1.079,
-    "form": -0.2471,
+    "elo": 1548.8,
+    "attack": 0.815,
+    "defense": 1.009,
+    "form": 0.127,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-10-24"
+    "rest_days": 3,
+    "last_match_date": "2026-10-27"
   },
   "弗赖堡": {
     "elo": 1709.9,
@@ -2637,13 +2637,13 @@
     "last_match_date": "2026-10-25"
   },
   "萨索洛": {
-    "elo": 1540.0,
-    "attack": 0.6349,
-    "defense": 0.8521,
-    "form": -0.5549,
+    "elo": 1510.8,
+    "attack": 0.6434,
+    "defense": 0.9801,
+    "form": -0.6884,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-10-24"
+    "rest_days": 3,
+    "last_match_date": "2026-10-27"
   },
   "卡利亚里": {
     "elo": 1472.4,
@@ -2682,13 +2682,13 @@
     "last_match_date": "2026-10-23"
   },
   "拉齐奥": {
-    "elo": 1779.1,
-    "attack": 0.7892,
-    "defense": 0.5263,
-    "form": 0.8668,
+    "elo": 1808.3,
+    "attack": 0.9234,
+    "defense": 0.5454,
+    "form": 0.9068,
     "injury": 0.0,
-    "rest_days": 6,
-    "last_match_date": "2026-10-24"
+    "rest_days": 3,
+    "last_match_date": "2026-10-27"
   },
   "热那亚": {
     "elo": 1526.1,
@@ -4347,13 +4347,13 @@
     "last_match_date": "2026-08-21"
   },
   "埃尔夫斯堡": {
-    "elo": 1591.7,
-    "attack": 0.6891,
-    "defense": 0.5343,
-    "form": 0.2897,
+    "elo": 1587.9,
+    "attack": 0.6923,
+    "defense": 0.5526,
+    "form": 0.2028,
     "injury": 0.0,
-    "rest_days": 5,
-    "last_match_date": "2026-10-23"
+    "rest_days": 4,
+    "last_match_date": "2026-10-27"
   },
   "瓦萨": {
     "elo": 1336.6,
@@ -4365,13 +4365,13 @@
     "last_match_date": "2026-08-02"
   },
   "索尔纳": {
-    "elo": 1443.1,
-    "attack": 0.4451,
-    "defense": 0.5205,
-    "form": 0.3011,
+    "elo": 1446.9,
+    "attack": 0.4721,
+    "defense": 0.5401,
+    "form": 0.2108,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-09-07"
+    "rest_days": 14,
+    "last_match_date": "2026-10-27"
   },
   "奥德": {
     "elo": 1511.0,
@@ -5886,13 +5886,13 @@
     "last_match_date": "2026-10-24"
   },
   "全北现代": {
-    "elo": 1567.4,
-    "attack": 0.4208,
-    "defense": 0.3486,
-    "form": -0.2299,
+    "elo": 1571.3,
+    "attack": 0.4501,
+    "defense": 0.385,
+    "form": -0.1609,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-14"
+    "rest_days": 13,
+    "last_match_date": "2026-10-27"
   },
   "马姆洛迪": {
     "elo": 1453.9,
@@ -7407,13 +7407,13 @@
     "last_match_date": "2026-10-24"
   },
   "大田市民": {
-    "elo": 1485.6,
-    "attack": 0.6173,
-    "defense": 0.5822,
-    "form": 0.1742,
+    "elo": 1450.4,
+    "attack": 0.5028,
+    "defense": 0.5411,
+    "form": -0.4246,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-13"
+    "rest_days": 0,
+    "last_match_date": "2026-10-27"
   },
   "仁川联": {
     "elo": 1542.5,
@@ -9045,13 +9045,13 @@
     "last_match_date": null
   },
   "北京国安": {
-    "elo": 1588.4,
-    "attack": 0.8862,
-    "defense": 0.6729,
-    "form": 0.657,
+    "elo": 1584.5,
+    "attack": 0.8702,
+    "defense": 0.6777,
+    "form": 0.4599,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-10-13"
+    "last_match_date": "2026-10-27"
   },
   "山东泰山": {
     "elo": 1426.4,
@@ -10638,13 +10638,13 @@
     "last_match_date": "2026-08-21"
   },
   "京都不死鸟": {
-    "elo": 1414.1,
-    "attack": 0.6421,
-    "defense": 0.8338,
-    "form": -0.8823,
+    "elo": 1454.2,
+    "attack": 0.7554,
+    "defense": 0.8229,
+    "form": -0.3176,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-10-10"
+    "last_match_date": "2026-10-27"
   },
   "山形山神": {
     "elo": 1483.2,
@@ -11178,13 +11178,13 @@
     "last_match_date": "2026-10-21"
   },
   "神户胜利船": {
-    "elo": 1512.2,
-    "attack": 0.7466,
-    "defense": 0.7494,
-    "form": -0.0939,
+    "elo": 1529.1,
+    "attack": 0.709,
+    "defense": 0.6763,
+    "form": 0.2343,
     "injury": 0.0,
     "rest_days": 3,
-    "last_match_date": "2026-10-24"
+    "last_match_date": "2026-10-27"
   },
   "FC东京": {
     "elo": 1611.8,
@@ -12195,13 +12195,13 @@
     "last_match_date": null
   },
   "纽卡斯尔喷气机": {
-    "elo": 1466.9,
-    "attack": 0.9166,
-    "defense": 0.9802,
-    "form": -0.21,
+    "elo": 1426.8,
+    "attack": 0.8976,
+    "defense": 1.0606,
+    "form": -0.447,
     "injury": 0.0,
-    "rest_days": 4,
-    "last_match_date": "2026-10-17"
+    "rest_days": 10,
+    "last_match_date": "2026-10-27"
   },
   "墨尔本胜利": {
     "elo": 1539.6,
@@ -12942,13 +12942,13 @@
     "last_match_date": "2026-10-20"
   },
   "神户胜利": {
-    "elo": 1500.1,
-    "attack": 0.9025,
-    "defense": 0.9025,
-    "form": 0.0,
+    "elo": 1518.4,
+    "attack": 0.8497,
+    "defense": 0.8145,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3,
-    "last_match_date": "2026-10-24"
+    "last_match_date": "2026-10-27"
   },
   "墨胜利": {
     "elo": 1497.0,

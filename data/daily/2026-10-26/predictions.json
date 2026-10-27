@@ -1394,6 +1394,10 @@
     "direction_prob": 0.5142,
     "direction_margin": 0.2414,
     "prob_band_5060": true,
-    "kelly_edge": -0.0487
+    "kelly_edge": -0.0487,
+    "actual_result": "3-2",
+    "actual_home_score": 3,
+    "actual_away_score": 2,
+    "direction_correct": false
   }
 ]
