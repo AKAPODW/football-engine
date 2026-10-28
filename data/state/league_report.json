@@ -2,7 +2,7 @@
   "n_leagues": 44,
   "n_matches": 1215,
   "external_added": 29,
-  "generated_at": "2026-10-28T00:03:55.392242",
+  "generated_at": "2026-10-28T17:26:20.930605",
   "leagues": [
     {
       "league": "西甲",
@@ -109,9 +109,9 @@
     {
       "league": "德甲",
       "n": 55,
-      "hit_rate": 0.5455,
+      "hit_rate": 0.5636,
       "avg_odds": 1.68,
-      "roi": -0.098,
+      "roi": -0.076,
       "avg_confidence": 0.1805,
       "verdict": "回暖解禁",
       "recent_n": 5,
