@@ -384,10 +384,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 115,
+    "total_predictions": 116,
     "total_hits": 30,
     "avg_overround": 0.0,
-    "last_updated": "2026-10-23"
+    "last_updated": "2026-10-28"
   },
   "意甲": {
     "base_goals": 1.25,
@@ -436,8 +436,8 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 56,
-    "total_hits": 31,
+    "total_predictions": 57,
+    "total_hits": 32,
     "avg_overround": 0.0,
     "last_updated": "2026-10-28"
   },
