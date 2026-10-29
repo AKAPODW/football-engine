@@ -1008,13 +1008,13 @@
     "last_match_date": "2026-08-20"
   },
   "赫尔辛基": {
-    "elo": 1608.0,
-    "attack": 0.7228,
-    "defense": 0.4077,
-    "form": 0.2791,
+    "elo": 1647.0,
+    "attack": 0.7931,
+    "defense": 0.4383,
+    "form": 0.4954,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-10-25"
+    "rest_days": 4,
+    "last_match_date": "2026-10-29"
   },
   "希腊人": {
     "elo": 1517.8,
@@ -1818,13 +1818,13 @@
     "last_match_date": null
   },
   "莱切": {
-    "elo": 1517.0,
-    "attack": 0.4873,
-    "defense": 0.7732,
-    "form": -0.3071,
+    "elo": 1486.1,
+    "attack": 0.475,
+    "defense": 0.8737,
+    "form": -0.515,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-25"
+    "rest_days": 4,
+    "last_match_date": "2026-10-29"
   },
   "水晶宫": {
     "elo": 1700.3,
@@ -6678,13 +6678,13 @@
     "last_match_date": null
   },
   "哈马比": {
-    "elo": 1561.6,
-    "attack": 0.6274,
-    "defense": 0.4969,
-    "form": 0.2887,
+    "elo": 1591.8,
+    "attack": 0.6366,
+    "defense": 0.4485,
+    "form": 0.5021,
     "injury": 0.0,
     "rest_days": 14,
-    "last_match_date": "2026-09-13"
+    "last_match_date": "2026-10-29"
   },
   "普火车头": {
     "elo": 1486.3,
@@ -7308,13 +7308,13 @@
     "last_match_date": "2026-10-11"
   },
   "天狼星": {
-    "elo": 1643.8,
-    "attack": 0.8535,
-    "defense": 0.5417,
-    "form": -0.3423,
+    "elo": 1613.6,
+    "attack": 0.7703,
+    "defense": 0.5593,
+    "form": -0.5396,
     "injury": 0.0,
-    "rest_days": 14,
-    "last_match_date": "2026-10-18"
+    "rest_days": 11,
+    "last_match_date": "2026-10-29"
   },
   "哈尔姆斯塔德": {
     "elo": 1414.3,
@@ -7344,13 +7344,13 @@
     "last_match_date": "2026-08-08"
   },
   "国际图尔库": {
-    "elo": 1671.3,
-    "attack": 0.5427,
-    "defense": 0.2501,
-    "form": 0.701,
+    "elo": 1632.3,
+    "attack": 0.5602,
+    "defense": 0.3665,
+    "form": 0.1907,
     "injury": 0.0,
-    "rest_days": 4,
-    "last_match_date": "2026-10-11"
+    "rest_days": 14,
+    "last_match_date": "2026-10-29"
   },
   "TPS图尔库": {
     "elo": 1564.6,
@@ -10206,13 +10206,13 @@
     "last_match_date": null
   },
   "上海申花": {
-    "elo": 1490.6,
-    "attack": 0.9166,
-    "defense": 0.945,
-    "form": 0.09,
+    "elo": 1475.1,
+    "attack": 0.8272,
+    "defense": 0.888,
+    "form": -0.237,
     "injury": 0.0,
-    "rest_days": 3,
-    "last_match_date": "2026-09-17"
+    "rest_days": 14,
+    "last_match_date": "2026-10-29"
   },
   "重庆铜梁龙": {
     "elo": 1453.6,
@@ -11403,22 +11403,22 @@
     "last_match_date": "2026-10-25"
   },
   "町田泽维亚": {
-    "elo": 1567.0,
-    "attack": 0.7205,
-    "defense": 0.5633,
-    "form": 0.2809,
+    "elo": 1582.5,
+    "attack": 0.6854,
+    "defense": 0.5084,
+    "form": 0.4966,
     "injury": 0.0,
-    "rest_days": 0,
-    "last_match_date": "2026-10-24"
+    "rest_days": 5,
+    "last_match_date": "2026-10-29"
   },
   "弗罗西诺内": {
-    "elo": 1612.8,
-    "attack": 0.8738,
-    "defense": 0.7875,
-    "form": 0.2237,
+    "elo": 1643.7,
+    "attack": 0.9645,
+    "defense": 0.7459,
+    "form": 0.4566,
     "injury": 0.0,
-    "rest_days": 9,
-    "last_match_date": "2026-10-25"
+    "rest_days": 4,
+    "last_match_date": "2026-10-29"
   },
   "查尔顿": {
     "elo": 1442.2,
@@ -13021,5 +13021,23 @@
     "injury": 0.0,
     "rest_days": 3,
     "last_match_date": "2026-10-28"
+  },
+  "Frosinone": {
+    "elo": 1544.3,
+    "attack": 1.0784,
+    "defense": 0.9377,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-10-29"
+  },
+  "Lecce": {
+    "elo": 1455.7,
+    "attack": 0.9377,
+    "defense": 1.0784,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-10-29"
   }
 }

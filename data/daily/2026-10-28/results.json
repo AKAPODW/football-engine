@@ -135,7 +135,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3632700",
+    "match_id": "周三016",
     "home_score": 2,
     "away_score": 1,
     "home_team": "弗鲁米嫩塞",
@@ -144,12 +144,34 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3624338",
+    "match_id": "周三017",
     "home_score": 2,
     "away_score": 2,
     "home_team": "迈阿密国际",
     "away_team": "辛辛那提",
     "half_home_score": 0,
     "half_away_score": 0
+  },
+  {
+    "match_id": "周三004",
+    "home_team": "帕德博恩",
+    "away_team": "斯图加特",
+    "home_score": 0,
+    "away_score": 1,
+    "competition": "德国杯",
+    "match_date": "2026-10-28",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周三012",
+    "home_team": "富勒姆",
+    "away_team": "水晶宫",
+    "home_score": 0,
+    "away_score": 1,
+    "competition": "英联杯",
+    "match_date": "2026-10-28",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
