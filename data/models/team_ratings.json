@@ -846,13 +846,13 @@
     "last_match_date": null
   },
   "埃弗顿": {
-    "elo": 1724.3,
-    "attack": 0.6176,
-    "defense": 0.6755,
-    "form": -0.3898,
+    "elo": 1747.5,
+    "attack": 0.6629,
+    "defense": 0.6448,
+    "form": 0.0271,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-24"
+    "rest_days": 5,
+    "last_match_date": "2026-10-29"
   },
   "曼彻斯特联": {
     "elo": 1804.7,
@@ -1836,13 +1836,13 @@
     "last_match_date": "2026-10-28"
   },
   "纽卡斯尔联": {
-    "elo": 1720.3,
-    "attack": 0.6176,
-    "defense": 0.661,
-    "form": 0.0134,
+    "elo": 1697.1,
+    "attack": 0.5926,
+    "defense": 0.7021,
+    "form": -0.2906,
     "injury": 0.0,
-    "rest_days": 8,
-    "last_match_date": "2026-10-25"
+    "rest_days": 4,
+    "last_match_date": "2026-10-29"
   },
   "吉维森特": {
     "elo": 1516.7,
@@ -2412,13 +2412,13 @@
     "last_match_date": "2026-10-23"
   },
   "亚特兰大": {
-    "elo": 1648.3,
-    "attack": 0.8463,
-    "defense": 0.8917,
-    "form": -0.2628,
+    "elo": 1646.2,
+    "attack": 0.8342,
+    "defense": 0.8751,
+    "form": -0.184,
     "injury": 0.0,
-    "rest_days": 0,
-    "last_match_date": "2026-10-25"
+    "rest_days": 4,
+    "last_match_date": "2026-10-29"
   },
   "马拉加": {
     "elo": 1322.7,
@@ -2619,13 +2619,13 @@
     "last_match_date": null
   },
   "佛罗伦萨": {
-    "elo": 1537.7,
-    "attack": 0.6122,
-    "defense": 0.8587,
-    "form": -0.6853,
+    "elo": 1539.8,
+    "attack": 0.6229,
+    "defense": 0.8453,
+    "form": -0.4797,
     "injury": 0.0,
-    "rest_days": 7,
-    "last_match_date": "2026-10-25"
+    "rest_days": 4,
+    "last_match_date": "2026-10-29"
   },
   "尤文图斯": {
     "elo": 1680.3,
@@ -12114,13 +12114,13 @@
     "last_match_date": "2026-10-06"
   },
   "Atalanta": {
-    "elo": 1523.5,
-    "attack": 1.0081,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1525.4,
+    "attack": 0.9802,
+    "defense": 0.9166,
+    "form": 0.21,
     "injury": 0.0,
     "rest_days": 3,
-    "last_match_date": null
+    "last_match_date": "2026-10-29"
   },
   "Venezia": {
     "elo": 1476.5,
@@ -13036,6 +13036,15 @@
     "attack": 0.9377,
     "defense": 1.0784,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3,
+    "last_match_date": "2026-10-29"
+  },
+  "Fiorentina": {
+    "elo": 1498.1,
+    "attack": 0.9729,
+    "defense": 0.9729,
+    "form": 0.0,
     "injury": 0.0,
     "rest_days": 3,
     "last_match_date": "2026-10-29"
