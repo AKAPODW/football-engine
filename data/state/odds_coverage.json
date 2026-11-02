@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-02T00:43:48",
-  "total_matches": 1601,
+  "generated_at": "2026-11-02T17:03:08",
+  "total_matches": 1619,
   "no_kickoff_time": 0,
   "snapshots": {
-    "mean": 3.24,
+    "mean": 3.21,
     "median": 3,
     "max": 17,
     "dist": {
-      "1": 370,
-      "2": 387,
-      "3": 318,
+      "1": 385,
+      "2": 389,
+      "3": 319,
       "4": 200,
       "5": 109,
       "6": 61,
@@ -26,40 +26,41 @@
     }
   },
   "multi_snapshot": {
-    "n": 1231,
-    "ratio": 0.7689
+    "n": 1234,
+    "ratio": 0.7622
   },
-  "odds_actually_moved": 1221,
-  "odds_flat": 380,
+  "odds_actually_moved": 1224,
+  "odds_flat": 395,
   "gap_hours": {
     "median": 3.93,
-    "mean": 5.17,
-    "p90": 10.41
+    "mean": 5.18,
+    "p90": 10.53
   },
   "lead_to_kickoff_hours": {
-    "median_last": 11.23,
+    "median_last": 11.28,
     "p10_last": 3.03,
-    "p90_last": 23.7,
-    "median_first": 22.5
+    "p90_last": 24.32,
+    "median_first": 22.59
   },
   "closing_coverage": {
     "window_h": 2.0,
     "n": 42,
-    "ratio": 0.0267,
-    "assessable": 1575,
-    "pending_kickoff": 26,
+    "ratio": 0.0266,
+    "assessable": 1577,
+    "pending_kickoff": 42,
     "post_kickoff_last": 51,
-    "stopped_before_kickoff": 1550
+    "stopped_before_kickoff": 1568
   },
   "near_close_coverage": {
     "window_h": 6.0,
     "n": 281,
-    "ratio": 0.1784
+    "ratio": 0.1782
   },
   "last_collection_day_offset": {
     "0": 565,
     "1": 984,
-    "2": 52
+    "2": 61,
+    "3": 9
   },
   "by_kickoff_hour": {
     "0": {
@@ -67,8 +68,8 @@
       "median_lead": 9.61
     },
     "1": {
-      "n": 108,
-      "median_lead": 10.72
+      "n": 110,
+      "median_lead": 10.73
     },
     "2": {
       "n": 240,
@@ -79,8 +80,8 @@
       "median_lead": 12.44
     },
     "4": {
-      "n": 41,
-      "median_lead": 27.68
+      "n": 56,
+      "median_lead": 29.03
     },
     "5": {
       "n": 6,
@@ -151,8 +152,8 @@
       "median_lead": 7.64
     },
     "23": {
-      "n": 74,
-      "median_lead": 8.45
+      "n": 75,
+      "median_lead": 8.5
     }
   },
   "healthy": false,
