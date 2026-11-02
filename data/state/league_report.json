@@ -2,7 +2,7 @@
   "n_leagues": 44,
   "n_matches": 1215,
   "external_added": 29,
-  "generated_at": "2026-11-02T17:05:05.937593",
+  "generated_at": "2026-11-02T23:54:28.613442",
   "leagues": [
     {
       "league": "西甲",
@@ -228,9 +228,9 @@
     {
       "league": "芬超",
       "n": 41,
-      "hit_rate": 0.3902,
+      "hit_rate": 0.4146,
       "avg_odds": 2.019,
-      "roi": -0.2668,
+      "roi": -0.2093,
       "avg_confidence": 0.1885,
       "verdict": "谨慎",
       "recent_n": 5,
